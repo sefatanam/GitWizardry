@@ -1,0 +1,17 @@
+# Modify the Last Commit
+
+You have committed to your local Git Database. Thereafter you realize that you have forgotten to include file changes to that commit(you may have not saved the file). Or you add a new file that you want it tied to the same commit you have committed most recently.
+<br>
+Git can unlock the previous commit and allow you to add your new file.
+<br>
+<br>
+Just do this:
+<br>
+First, you add the missing file using:<br>
+   `git add newfile.ts`
+<br>
+Then, run:
+<br>
+   `git commit --amend --no-edit`<br>
+The `--no-edit` flag amends the commit without changing the commit message.
+
