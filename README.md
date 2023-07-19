@@ -1,4 +1,4 @@
-# Turn around your Git mistakes in 17 ways
+# Collection of all the topic/story and how avoid those mistakes in git.
 
 All creadit goes to [https://dev.to/smitterhane](https://dev.to/smitterhane/turn-around-your-git-mistakes-in-17-ways-2mn1)
 
