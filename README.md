@@ -1,4 +1,4 @@
-# Git Wizardy: Unlock Ways to Turn Your Mistakes into Victories!
+## Git Wizardy: Unlock Ways to Turn Your Mistakes into Victories!
 
 
 ### Overview
